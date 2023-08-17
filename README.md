@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Murinho
-- 👀 I’m interested in programming in C++, C, Java, and Python
-- 🌱 I’m currently studying at Universidad Panamericana Campus Bonaterra, bachelor in Artificial Intelligence.
-- 💞️ I’m looking to collaborate on any kind of project to gain experience.
+- 👀 I’m interested in programming in C++, C, Java, SQL, Kotlin, and Python
+- 🌱 Former STEP Intern @ Google | AI Student @ Universidad Panamericana
+- 💞️ I’m looking to collaborate on any kind of project or job to gain experience.
 - 📫 How to reach me:
      > Email: adrianmuro02@gmail.com
-     > LinkedIn: Adrián Muro.
+     > LinkedIn: Adrián Muro Garduño.
      > Twitter: @AdrianMuro02
 
 <!---
