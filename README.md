@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murinho
 - 👀 I’m interested in programming in C++, C, Java, SQL, Kotlin, and Python
-- 🌱 Former STEP Intern @ Google | AI Student @ Universidad Panamericana
+- 🌱 SWE Intern @ Netflix | Former STEP Intern @ Google | AI Student @ Universidad Panamericana
 - 💞️ I’m looking to collaborate on any kind of project or job to gain experience.
 - 📫 How to reach me:
      > Email: adrianmuro02@gmail.com
